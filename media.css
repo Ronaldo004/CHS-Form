@@ -1,0 +1,144 @@
+@media (min-width:576px) and (max-width:768px)
+{
+    .btndrop{
+        width: 60% !important;
+    }
+    .secr1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 1rem;
+        padding-bottom: 1rem;
+
+        
+    }
+    .sec2btn{
+        width: 30% !important;
+    }
+    .Drate{
+        font-size: 12px !important;
+       
+        width: auto;
+    }
+    .inpfiled{
+        justify-content: center !important;
+    }
+   .inpfiled>:nth-child(2){
+    width: 60% !important;
+   }
+   .btn4{
+    width: 40% !important;
+   }
+   .input1{
+    width: 50% !important;
+   }
+   .s2search{
+    width: 70% !important ;
+    height: 3vh !important;
+  }
+  .osopt{
+    justify-content: center !important;
+    align-items: center;
+    /* border: solid; */
+  }
+  .sechbtnsec{
+    /* border: solid; */
+    display: flex;
+    gap:3px;
+  }
+  .secr1billing2{
+    flex-direction: column;
+    padding-bottom: 2rem;
+  }
+  .DedicatedSdrop{
+    width: 40vw !important;
+    height: 4vh !important; 
+   
+   
+  }
+  .DedicatedSdrop2{
+    width: 50vw !important;
+    height: 4vh !important; 
+   
+  }
+}
+
+@media only screen and (max-width:576px)
+{
+    .btndrop{
+        width: 100% !important;
+    }
+    .input1{
+        width: 80% !important;
+    }
+    .secr1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       flex-direction: column;
+       margin-top: 1rem;
+       padding-bottom: 1rem;
+    }
+    .sec2btn{
+        width: 40% !important;
+        font-size: 10px;
+    }
+    .Drate{
+        font-size: 12px !important;
+       
+        width: auto;
+    }
+    .inpfiled{
+        justify-content: center !important;
+    }
+   .inpfiled>:nth-child(2){
+    width: 60% !important;
+   }
+   .btn4{
+    width: 40% !important;
+   }
+   .searchsec {
+    flex-direction: column;
+   }
+   .seacsecdiv>:nth-child(2){
+    width: 80%;
+   }
+   .sec2btn3{
+    width: 30% !important;
+  
+   }
+  
+  .dropdown3{
+    width: 55vw !important;
+   
+  }
+  .s2search{
+    width: 70% !important ;
+  }
+  .osopt{
+    justify-content: center !important;
+    align-items: center;
+    /* border: solid; */
+  }
+  .opnvpsdrop1{
+    width: 100% !important;
+  }
+  .domainfdropdown2{
+    height: 5vh !important;
+  }
+  .secr1billing2{
+    flex-direction: column;
+    padding-bottom: 3rem;
+  }
+  .DedicatedSdrop{
+    width: 70vw !important;
+   
+  }
+  .DedicatedSdrop2{
+    width: 50vw !important;
+    font-size: 10px !important;
+   
+  }
+  
+}

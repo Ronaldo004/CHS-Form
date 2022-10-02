@@ -1,0 +1,284 @@
+
+.head2{
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.head3{
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+   background-color: #F67A3C;
+   color: #FFFFFF;
+}
+.input1{
+    width: 20vw;
+}
+.abbr{
+    /* border: solid; */
+    width: 16px;
+    height: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    font-weight: bold;
+    background-color: greenyellow ;
+    color: #f8f8f8;
+}
+
+.navcol{
+    /* border: solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+}
+.navcol p{
+    /* border: solid; */
+}
+
+.dnsec1{
+    /* border: solid; */
+    /* padding-bottom: 1rem; */
+}
+.secr1{
+    /* border: solid; */
+    /* height: 100vh; */
+}
+.secl1{
+    /* border: solid; */
+    background-color: #f8f8f8;
+    padding-bottom: 1rem;
+}
+.secl1head{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 1rem;
+    margin-top: 1rem;
+    /* border: solid; */
+    color: #f8f8f8;
+    background-color: #F67A3C;
+
+    
+}
+.list1s>li{
+    list-style:none ;
+    color: #f8f8f8;
+
+}
+.sec1list{
+    padding-top: 1rem;
+    background-color: #66C206;;
+    padding-bottom: 1rem;
+}
+.btndrop{
+    width: 40vw;
+    border: none;
+    border: 10px;
+}
+.Dsec2{
+    /* border: solid; */
+    /* height: 40vh; */
+    padding-bottom: 1rem;
+}
+.sec2btn{
+    font-size: 12px;
+    height: 7vh;
+    width: 10vw;
+    background-color: #F67A3C;
+    color: #FFFFFF;
+    border: #f8f8f8;
+    border-radius: 1rem;
+}
+.sec2head{
+    background-color: #66C206;
+    padding-left: 1rem;
+    padding-bottom: 0.3rem;
+    padding-top: 0.3rem;
+}
+.s2search{
+    height: 5vh;
+    width: 20vw;
+    
+    
+}
+.domainfdropdown2{
+    height: 6vh;
+    font-size: 12px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+   
+   
+}
+.sec2btn3{
+    height: 5vh;
+    width: 12vw;
+    font-size: 10px;
+    border: none;
+    border-radius: 1rem;
+}
+.searchsec{
+   padding-top: 1rem;
+   display: flex;
+   justify-content: flex-start;
+   gap:5px;
+}
+.headsec3{
+    background-color: #66C206;
+    color: #FFFFFF;
+    font-size: 18px;
+    padding-left: 1rem;
+}
+.secl1{
+    display: flex;
+    flex-direction: column;
+}
+
+.inpfiled{
+    display: flex;
+    justify-content: end;
+   align-items: center;
+   
+  
+    margin-top: 1rem;
+    gap:6px;
+ 
+}
+.inpfiled>:nth-child(2){
+    width: 15vw;
+}
+.dropdown3{
+    background-color: #f8f8f8 !important;
+    color: black !important;
+    width: 16vw ;
+    height: 5vh;
+    font-size: 12px !important;
+    display: flex !important;
+    justify-content: flex-start ;
+    align-items: center;
+    margin-left: -0.2rem;
+}
+
+.inpfiled>:nth-child(2){
+    width: 25vw;
+}
+.addr{
+    width: 26.7vw;
+}
+.btn4{
+    font-size: 12px;
+    width: 10vw;
+    height: 6vh;
+    border: none;
+    background-color: #F67A3C;
+    color: #FFFFFF;
+}
+.seacsecdiv{
+    display: flex;
+}
+.DhostDropdawn{
+    width: 100% !important;
+    display: flex !important;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 12px;
+    background-color: #f8f8f8 !important;
+    color: black !important;
+}
+.secr1billing{
+    display: flex;
+    gap:40px;
+}
+.secr1billing2{
+    display: flex;
+    gap:40px;
+}
+
+.headsemidedex{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #66C206;
+    color: #FFFFFF;
+}
+.osopt{
+    display: flex;
+    justify-content: end;
+    margin-top: 3rem;
+    gap:10px;
+}
+.opnvpsdrop1{
+    width: 29vw ;
+    height: 5vh;
+    font-size: 10px;
+    display: flex !important;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #F67A3C !important;
+    color: #FFFFFF !important;
+}
+.ovzopt2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+.additionalOs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.Raid1{
+    /* border: solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    margin-top: 1rem;
+}
+.sslcerldrop{
+    /* border: solid; */
+    display: flex;
+    justify-content: start;
+    padding-bottom: 1rem;
+    align-items: center;
+    gap:10px;
+    margin-top: 1rem;
+}
+.DedicatedSdrop{
+    width:18vw ;
+    height: 6vh;
+    display: flex !important;
+    justify-content: start;
+    align-items: center;
+    font-size: 12px;
+}
+.DedicatedSdrop2{
+    width:25vw ;
+    height: 6vh;
+    display: flex !important;
+   
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+}
+#Domain{
+    display: none;
+}
+#Domain.active{
+    display: block;
+}
+
+#Rejisterdomain{
+    display: block;
+}
+
+#Rejisterdomain.active{
+    display: none;
+}
